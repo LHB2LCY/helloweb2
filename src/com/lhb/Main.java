@@ -6,13 +6,13 @@ public class Main {
 
 
         System.out.println("上传代码");
-        
+
 
         getName();
     }
 
     private static void getName() {
 
-
+        System.out.println("sdjofjsd");
     }
 }
